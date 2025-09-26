@@ -41,24 +41,7 @@
   </tbody>
 </table>
 
-<details>
-  <summary><strong>🚦 Engineering Conventions (click to expand)</strong></summary>
-
-  <h4>Branches</h4>
-  <ul>
-    <li><code>main</code>: stable, protected</li>
-    <li><code>feat/&lt;scope&gt;-&lt;slug&gt;</code> — e.g. <code>feat/overlay-hit-test</code></li>
-    <li><code>fix/&lt;scope&gt;-&lt;slug&gt;</code> — e.g. <code>fix/ocr-accents</code></li>
-  </ul>
-
-  <h4>PR & Reviews</h4>
-  <ul>
-    <li>1–2 approvals required, green CI, all conversations resolved.</li>
-    <li>Prefer squash &amp; merge, linear history.</li>
-  </ul>
-</details>
-
-## 🗺️ Short Roadmap
+##  Short Roadmap
 <details open>
   <summary><strong>See milestones</strong></summary>
   <ul>
@@ -68,7 +51,7 @@
 </details>
 
 ## Contributing
-Developer Guide: https://github.com/Sofia-assist/sofia-docs
+Developer Guide: [https://github.com/DracJulien/dev-guide](https://github.com/DracJulien/dev-guide)
 <ol>
   <li>Open an issue (bug/feature) using a clear <strong>template</strong>.</li>
   <li>Fork → branch (<code>feat/...</code>) → PR to <code>main</code>.</li>
@@ -86,5 +69,5 @@ Developer Guide: https://github.com/Sofia-assist/sofia-docs
   <li><strong>On-device</strong> processing.</li>
   <li>No browser extension.</li>
   <li>Blur sensitive data in debug captures.</li>
-  <li>Report vulnerabilities: <em>security@example.org</em> (to update).</li>
+  <li>Report vulnerabilities: <em>juliendrac@pm.me</em>.</li>
 </ul>
