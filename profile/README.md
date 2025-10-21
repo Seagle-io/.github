@@ -52,7 +52,7 @@ We develop both **tailored systems** for businesses and **in-house products** th
 
 We’re always looking for people who share our vision — developers, designers, and thinkers who believe AI can truly **empower humanity**.  
   
-🌐 **Website:** [www.seagle.ai](https://www.seagle.io)
+🌐 **Website:** [www.seagle.io](https://www.seagle.io)
 
 ---
 
